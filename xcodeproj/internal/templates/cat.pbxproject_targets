@@ -1,0 +1,17 @@
+			targets = (
+				0000000000000000000000FF /* BazelDependencies */,
+				302F4C6E9EE3F09D4809EF0A /* CustomDump */,
+				85C876DB90D51CD225023BB2 /* generator */,
+				F12050E30563A81EEBB2EA9B /* generator.library */,
+				D845A7FE88713D7C5CC6B041 /* JJLISO8601DateFormatter */,
+				023B2C041CD79AF5B2FDAFE1 /* OrderedCollections */,
+				4A2EC1B2D6969F717CB890DE /* PathKit */,
+				2CF4E33AE578202202C2EC87 /* swiftc */,
+				1F8ACFD448DBFCE4D2BCD6CD /* tests (Debug) */,
+				27F2BB3A75802147ED1E07C2 /* tests (Profile, Release) */,
+				A09CE18EBBDAC65CD0C6B7D1 /* XcodeProj */,
+				9DF90F35406923EA23C68CFC /* XCTestDynamicOverlay */,
+				C1C9A1EA5F7FD851D082A6A2 /* ZippyJSON */,
+				3A4CC0BB0A4B4363D71359F5 /* ZippyJSONCFamily */,
+			);
+		};
